@@ -1,0 +1,7 @@
+1. do topic modelling
+2. and also do k means clustering 
+	https://medium.com/@dennisndungu68/text-classification-using-k-means-33bea24e4a94
+https://scikit-learn.org/stable/auto_examples/text/plot_document_clustering.html
+https://www.kaggle.com/thebrownviking20/k-means-clustering-of-1-million-headlines
+
+ALL IN BLUEPRINTS BOOK
